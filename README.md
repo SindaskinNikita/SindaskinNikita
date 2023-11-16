@@ -250,8 +250,9 @@
 
 
 ## Результат.
-![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/ebd6945e-6d1c-43b8-a81a-428e5b324ed5)
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/c5fdf7bb-8d7e-483e-a788-156cf1ba66eb)
+
 
 ## Выводы
-### В данном коде создаем 3 переменные в одной строке используя F строку и оператор end внутри print() выводим готовый текст. 
+### В данном коде мы берем готовые строчки кода и составляем код которой выполнит наши условия.
   
