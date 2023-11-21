@@ -187,7 +187,7 @@
 
 
 ## Результат.
-![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/c5fdf7bb-8d7e-483e-a788-156cf1ba66eb)
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/2de700a9-15ef-47ca-acd8-6ade54419bb3)
 
 
 ## Выводы
