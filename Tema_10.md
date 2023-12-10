@@ -106,6 +106,7 @@
 ## Результат.
 ![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/0573def3-8e32-437b-9a20-ac0b15c5ce39)
 ![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/f71b40a5-24d5-4555-b912-f2139d8b1721)
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/1179ec7e-2119-4662-8126-d230513625d2)
 
 
 ## Выводы
