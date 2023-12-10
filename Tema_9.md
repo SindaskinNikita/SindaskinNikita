@@ -145,8 +145,14 @@
 
 
 ## Результат.
-![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/8a0cfa5b-159f-4a6e-8a9a-609b247cef28)
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/002ce777-510b-439e-bd31-0d7422d2d2ca)
+
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/8a743af7-d52f-41d9-adec-e30775bc4d85)
+
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/83e231a6-0136-406f-a646-71f312d000ad)
+
+![image](https://github.com/SindaskinNikita/SindaskinNikita/assets/147731691/d3dcd693-d449-4f95-b58e-807a53205aed)
 
 
 ## Выводы
-### Создаем класс который не повторяется в лабараторной работе.
+### В данном коде мы создаем определенные классы такие как Tomato, TomatoBush, Gardener после чего к ним создаем методы каждый метод отвечает за свое
